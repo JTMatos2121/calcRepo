@@ -1,6 +1,3 @@
-from lib2to3.pgen2.token import EQUAL
-
-
 def main():
     sum = 0
     oper = 0
